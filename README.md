@@ -1,2 +1,2 @@
 # resume
-A resume of myself created using HTML, CSS
+My resume created using HTML, CSS
