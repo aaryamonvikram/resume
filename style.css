@@ -1,0 +1,97 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-weight: 100;
+    padding-left: 40px;
+}
+p{
+    font-size: 16px;
+    padding-left: 40px;
+}
+
+.email{
+    text-align: right;
+    padding-right: 40px;
+    float: right;
+}
+.mobile{
+    text-align: right;
+
+    float: right;
+}
+.skills{
+    padding-left: 40px;
+}
+.border {
+    display: block;
+    width: 1350px;
+    height: 2px;
+    background: #000;
+    margin-left: 40px;
+}
+.wex{
+    font-size: 24px;
+    font-style: italic;
+}
+.turnip{
+    padding-left: 50px;
+}
+.ttime{
+    text-align: right;
+    float: right;
+    padding-right: 40px;
+}
+.google{
+    padding-left: 50px;
+}
+.gtime{
+    text-align: right;
+    float: right;
+    padding-right: 40px;
+}
+.threado{
+    padding-left: 50px;
+}
+.thtime{
+    text-align: right;
+    float: right;
+    padding-right: 40px;
+}
+.edu{
+    font-size: 24px;
+    font-style: italic;
+}
+.college{
+    font-weight: bold;
+    font-size: 18px;
+}
+.degree{
+    font-style: italic;
+    font-size: 14px;
+}
+.highschool{
+    font-weight: bold;
+    font-size: 18px;
+}
+.study{
+    font-style: italic;
+    font-size: 14px;
+}
+.ctime{
+    text-align: right;
+    float: right;
+    padding-right: 40px;
+    font-weight: lighter;
+}
+.stime{
+    text-align: right;
+    float: right;
+    padding-right: 40px;
+    font-weight: lighter;
+}
+.intern{
+    font-style: italic;
+    font-weight:bold;
+}
